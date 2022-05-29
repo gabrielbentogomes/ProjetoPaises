@@ -1,0 +1,49 @@
+body{
+	background-color: #dfe6e9;
+}
+#box{
+	border: 2px solid #2d3436;
+	width: 65vw;
+	height: 32.5vh;
+	margin-right: 17.5vw; 
+	margin-left: 17.5vw; 
+	display: flex;
+}
+#bandeiras{
+	margin: 0.5em;
+	width: 30vw;
+	height: 30vh;
+}
+#infoBox{
+	margin: 0.5em;
+	border: 0.5px solid black;
+	width: 38vw;
+	height: 30vh;
+}
+#cbPais{
+	margin-left: 19vw;
+	margin-top: 29vh;
+}
+#tituloBox{
+	color: black;
+	text-align: center;
+	margin-top: 0.5vh;
+}
+h1{
+	font-size: 30px;
+}
+.icones{
+	width: 5vh;
+	height: 5vh;
+}
+.info{
+	width: 11vw;
+	height: 5vh;
+	display: inline-flex;
+	margin-left: 0.5vw;
+	margin-right: 5vw;
+}
+.textin{
+	margin-top: -1vh;
+	color: red;
+}
