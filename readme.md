@@ -1,0 +1,1 @@
+Projeto desenvolvido durante o ensino médio usando HTML, CSS e JS, para consultar dados de países utilizando uma API
